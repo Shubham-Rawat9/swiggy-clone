@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 33b6518b7b5a1a19105bbcfb22305ef9addde5be
 
 import React from 'react';
 import swiggy from '../../assets/images/swiggy_logo.png';
