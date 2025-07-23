@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 33b6518b7b5a1a19105bbcfb22305ef9addde5be
 
 import React from 'react';
 import swiggy from '../../assets/images/swiggy_logo.png';
@@ -10,8 +6,8 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 const Header = () => {
   return (
-    <header>
-      <Container className=" shadow-sm py-5">
+    <header className='swiggy-bg'>
+      <Container className=" shadow-sm py-5 ">
         <Row className="align-items-center">
           <Col md={3}>
           <div className="w-50">
@@ -24,7 +20,7 @@ const Header = () => {
                          <ul className="list-unstyled d-flex justify-content-end">
                              <li className="px-4 fw-bolder"><a href="#" className="text-white text-decoration-none">Swiggy Corporate</a></li>
                              <li className="px-4 fw-bolder"><a href="#" className="text-white text-decoration-none">Partner with us</a></li>
-                             <li className="px-4 fw-bolder"><a href="#" className="text-white text-decoration-none border border-1 p-3"> Get the App</a></li>
+                             <li className="px-4 fw-bolder"><a href="#" className="text-white text-decoration-none border border-1 p-3 radius-12"> Get the App</a></li>
                              <li className="px-4 fw-bolder"><a href="#" className="text-white text-decoration-none border bg-black p-3"> Sign In</a></li>
                          </ul>
                      </nav>

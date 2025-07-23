@@ -1,24 +1,13 @@
-<<<<<<< HEAD
+.swiggy-bg{    background-color: rgb(255, 82, 0);}
 
-=======
->>>>>>> 33b6518b7b5a1a19105bbcfb22305ef9addde5be
-.swiggy-bg{
-    background-color: rgb(255, 82, 0);
+.radius-12{    border-radius: 12px;}
+.button1{
+  background: #fff; 
+     border-radius: 16px; 
 }
-
-.input-icon-left {
-  top: 50%;
-  left: 12px;
-  transform: translateY(-50%);
+.button2{
+   
+    border-radius: 16px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(2, 6, 12, 0.15);
 }
-
-.input-icon-right {
-  top: 50%;
-  right: 12px;
-  transform: translateY(-50%);
-  
-}
-<<<<<<< HEAD
-=======
-
->>>>>>> 33b6518b7b5a1a19105bbcfb22305ef9addde5be
